@@ -1,0 +1,30 @@
+//componentit
+ActivityIndicator,
+Image,
+FlatList,
+KeyboardAvoidingView,
+TouchableOpacity,
+import {createStackNavigator, createAppContainer} from 'react-navigation';
+
+----------------------------
+import { Ionicons } from '@expo/vector-icons';
+--------------------------------------
+componentDidMount(){
+
+}
+--------------------------------------
+
+-----------------------------
+firebase
+.auth(),
+.signInWithEmailAndPassword,
+.onAuthStateChanged,
+.createUserWithEmailAndPassword(email, password)
+
+-------------------------------------------------
+
+---------------navigationin kanssa tämä-----------
+expo install react-native-gesture-handler react-native-reanimated
+----------------------------------------------
+------------image-picker-------------
+expo install expo-image-picker
